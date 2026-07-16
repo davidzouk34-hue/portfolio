@@ -7,7 +7,6 @@
 * **Niveau :** Licence II
 * **Cours :** Génie Logiciel
 * **Réalisé par :** ZOUKALNE IGNEDJOLBO P. David
-* **Chargé de cours :** Mr BETAN Gildas ONGBAYE
 
 ---
 
